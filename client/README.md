@@ -1,3 +1,3 @@
-## Payroc - Software Developer Assessment
+## Arkiter - Software Developer Assessment
 
 ## Darie-Dragoș Mitoiu
