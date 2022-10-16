@@ -1,6 +1,6 @@
 ## Arkiter - Software Developer Assessment
 
-## Darie-Dragoș Mitoiu
+## Darie-Dragoș Mitoiu - React/Redux/TailwindCSS/KonvaJs/Express.js/Node.js
 
 #### Installing Packages
 
